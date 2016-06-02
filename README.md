@@ -1,5 +1,6 @@
-# React Starter Kit
+### Grudge Bin
 
+## Learning React...kind of?
 To install the dependencies:
 
 ```
@@ -21,11 +22,4 @@ To build the static files:
 
 ```js
 npm run build
-```
-
-
-To run tests in Node:
-
-```js
-npm test
 ```
